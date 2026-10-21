@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <Routes>
-        {/* comment */}
+        {/* comment s*/}
         <Route path='/' element={<Home/>}/>
       </Routes>
     </>
